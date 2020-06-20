@@ -1,0 +1,159 @@
+/********************ELEMENT STYLING********************/
+body
+{
+  margin: 0px;
+  text-align: center;
+}
+
+h1
+{
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Oswald', sans-serif;
+  font-size: 3rem;
+}
+
+
+/********************CLASS STYLING********************/
+.top-container
+{
+  background-color: #eeeeee;
+  position: relative;
+  padding: 150px;
+}
+
+.logo
+{
+  width: 200px;
+}
+.desig
+{
+  margin: 0px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/********************SECOND********************/
+.second
+{
+  text-align: left;
+  padding: 20px;
+}
+
+.starwars
+{
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.parageneric
+{
+
+  margin: 5px 0 20px 0;
+}
+.headinggeneric
+{
+  font-family: 'Play', sans-serif;
+  margin: 25px 0 0;
+}
+
+/********************THIRD********************/
+
+.third
+{
+  background-color: #000000;
+  color: #ffffff;
+}
+.code
+{
+  text-align: left;
+  padding: 20px;
+  padding-bottom: 5px;
+}
+.img-left-generic
+{
+  width: 100px;
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.allcode
+{
+  text-align: left;
+  margin-left: 180px;
+  padding-bottom: 20px;
+}
+.iconsize
+{
+
+  width: 50px;
+}
+.skill
+{
+  text-align: left;
+  padding: 20px;
+  padding-bottom: 60px;
+}
+.inside-skills
+{
+  text-align: left;
+  margin-left: 150px;
+  padding-bottom: 20px;
+}
+.skillsicon
+{
+  width: 70px;
+  float: left;
+}
+
+/********************CONTACT********************/
+.contact
+{
+  padding: 5px;
+  text-align: left;
+}
+
+.gmail
+{
+  width: 100px;
+  float: left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.gmail:hover
+{
+  border-radius: 50%;
+}
+
+.social
+{
+  text-align: left;
+  padding-bottom: 5px;
+  margin-left: 20px;
+}
+.social-icon
+{
+
+  width: 50px;
+}
+.social-icon:hover
+{
+  border-radius: 50%;
+}
+.footer
+{
+  text-align: left;
+  padding-bottom: 10px;
+}
+.foot-tag
+{
+  color:black;
+  text-decoration: none;
+}
+.foot-tag:hover
+{
+  text-decoration: underline;
+}
+/********************ID STYLING********************/
