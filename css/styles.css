@@ -29,7 +29,7 @@ hr
 .top-elements
 {
   padding: 20px;
-  width: 100%;
+  width: 50%;
   margin: auto;
   padding : 80px;
 }
@@ -50,7 +50,7 @@ hr
 {
   text-align: left;
   padding: 20px;
-  width: 100%;
+  width: 50%;
 }
 
 .starwars
@@ -84,7 +84,7 @@ hr
 
 .code
 {
-  width: 100%;
+  width: 50%;
   text-align: left;
   padding: 20px;
 }
@@ -97,7 +97,7 @@ hr
 
 .skill
 {
-  width: 100%;
+  width: 50%;
   text-align: left;
   padding: 20px;
 }
@@ -134,7 +134,7 @@ hr
 }
 .contact
 {
-  width: 100%;
+  width: 50%;
   text-align: left;
 }
 
@@ -152,7 +152,7 @@ hr
 
 .social
 {
-  width: 100%;
+  width: 50%;
   text-align: left;
   margin-left: 20px;
 }
@@ -174,7 +174,7 @@ hr
 .footer
 {
   font-size: medium;
-  width: 100%;
+  width: 50%;
   text-align: left;
 }
 .foot-tag
