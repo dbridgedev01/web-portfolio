@@ -23,14 +23,13 @@ hr
 .top-container
 {
   background-color: #eeeeee;
-  width:auto;
 
 }
 
 .top-elements
 {
   padding: 20px;
-  width: 50%;
+  width: 100%;
   margin: auto;
   padding : 80px;
 }
@@ -51,7 +50,7 @@ hr
 {
   text-align: left;
   padding: 20px;
-  width: 50%;
+  width: 100%;
 }
 
 .starwars
@@ -85,7 +84,7 @@ hr
 
 .code
 {
-  width: 50%;
+  width: 100%;
   text-align: left;
   padding: 20px;
 }
@@ -98,7 +97,7 @@ hr
 
 .skill
 {
-  width: 50%;
+  width: 100%;
   text-align: left;
   padding: 20px;
 }
@@ -135,7 +134,7 @@ hr
 }
 .contact
 {
-  width: 50%;
+  width: 100%;
   text-align: left;
 }
 
@@ -153,7 +152,7 @@ hr
 
 .social
 {
-  width: 50%;
+  width: 100%;
   text-align: left;
   margin-left: 20px;
 }
@@ -175,7 +174,7 @@ hr
 .footer
 {
   font-size: medium;
-  width: 50%;
+  width: 100%;
   text-align: left;
 }
 .foot-tag
