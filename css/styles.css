@@ -3,7 +3,6 @@ body
 {
   margin: 0px;
   text-align: center;
-  height: 100vh;
 }
 
 h1
@@ -24,13 +23,12 @@ hr
 .top-container
 {
   background-color: #eeeeee;
-  min-height: 100%;
+ 
 
 }
 
 .top-elements
 {
-  min-height: 100%;
   padding: 20px;
   width: 50%;
   margin: auto;
